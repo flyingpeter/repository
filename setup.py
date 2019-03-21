@@ -10,7 +10,7 @@ setuptools.setup(
     description="Useful Stuff",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/flyingpetet/repository",
+    url="https://github.com/flyingpeter/repository",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.7",
