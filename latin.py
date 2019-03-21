@@ -18,4 +18,3 @@ def replace(rx_string):
             rx_string[index] = replace_string[search_string.find(letter)]
     rx_string = ''.join(rx_string)
     return rx_string
-
